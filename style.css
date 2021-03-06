@@ -38,8 +38,8 @@ p {
   color: rgb(43, 2, 56);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
-  padding-left: 250px;
-  padding-right: 250px;
+  margin-left: 150px;
+  margin-right: 150px;
   line-height: 30px;
 }
 h4 {
@@ -57,7 +57,7 @@ ul {
   line-height: 27px;
 }
 li {
-  padding: 5px 250px 5px 250px;
+  padding: 5px 150px 5px 150px;
   font-size: 21px;
   font-family:  Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -92,5 +92,5 @@ footer {
   color: rgb(229, 205, 235);
 }
 .push-left {
-  padding-left: 250px;
+  padding-left: 100px;
 }
