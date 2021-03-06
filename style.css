@@ -1,0 +1,96 @@
+header {
+  background-color: rgb(78, 11, 99);
+  text-align: center;
+  font-family:'Courier New', Courier, monospace, cursive;
+  padding: 50px 0 5px 50px;
+  
+}
+h1 {
+  color: rgb(229, 205, 235);
+  letter-spacing: 2px;
+  font-weight: 800px;
+  font-size: 48px;
+  font-variant: small-caps;
+  margin: 0;
+
+}
+h3 {
+  color: rgb(229, 205, 235);
+  font-size: 24px;
+  letter-spacing: 1.5px;
+  font-weight: 600px;
+  margin: 0;
+}
+img {
+  display: block;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+h2 {
+  color: rgb(63, 1, 82);
+  font-family:'Franklin Gothic Medium', cursive;
+  font-size: 28px;
+  letter-spacing: 1px;
+  padding-bottom: 26px;
+}
+p {
+  color: rgb(43, 2, 56);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding-left: 350px;
+  padding-right: 350px;
+  line-height: 30px;
+}
+h4 {
+  color: rgb(63, 1, 82);
+  text-align: center;
+  font-family: cursive;
+  font-size: 22px;
+  padding-top: 80px;
+}
+ul {
+  font-weight: bold;
+  letter-spacing: 0.7px;
+  color: rgb(43, 2, 56);
+  list-style-position: inside;
+  line-height: 27px;
+}
+li {
+  padding: 5px 400px 5px 400px;
+  font-size: 21px;
+  font-family:  Calibri, 'Trebuchet MS', sans-serif;
+}
+hr {
+  width: 600px;
+  height: 4px;
+  background-color: rgb(229, 205, 235);
+  border: 1px solid rgb(186, 164, 192);
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+ol {
+  list-style-position: inside;
+  font-size: 24px;
+}
+
+a:link {color: rgb(61, 15, 148);}
+a:visited {color: purple;}
+a:hover {color: rgb(209, 129, 247);}
+a:active {color: blue;}
+
+footer {
+  background-color: rgb(78, 11, 99);
+  margin: 150px 0 0 0;
+  padding: 20px 0; 
+}
+
+.center {
+  text-align: center;/*look here*/
+}
+.lt-purple {
+  color: rgb(229, 205, 235);
+}
+.push-left {
+  padding-left: 250px;
+}
