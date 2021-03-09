@@ -75,9 +75,9 @@ ol {
 }
 
 a:link {color: rgb(61, 15, 148);}
-a:visited {color: purple;}
+a:visited {color: blue;}
 a:hover {color: rgb(209, 129, 247);}
-a:active {color: blue;}
+a:active {color: grey;}
 
 footer {
   background-color: rgb(78, 11, 99);
