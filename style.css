@@ -1,4 +1,4 @@
-header {
+header { /*dark purple background with light purple text from h1 and h3 enclosed and centered*/
   background-color: rgb(78, 11, 99);
   text-align: center;
   font-family:'Courier New', Courier, monospace, cursive;
@@ -21,13 +21,13 @@ h3 {
   font-weight: 600px;
   margin: 0;
 }
-img {
+img { /*ID photo of me*/
   display: block;
   margin: 0 auto 0 auto;
   padding-top: 100px;
   padding-bottom: 40px;
 }
-h2 {
+h2 { /*section headers*/
   color: rgb(63, 1, 82);
   font-family:'Franklin Gothic Medium', cursive;
   font-size: 28px;
@@ -42,7 +42,7 @@ p {
   margin-right: 150px;
   line-height: 30px;
 }
-h4 {
+h4 { /* lead title followed by and unordered list*/
   color: rgb(63, 1, 82);
   text-align: center;
   font-family: cursive;
@@ -61,7 +61,7 @@ li {
   font-size: 21px;
   font-family:  Calibri, 'Trebuchet MS', sans-serif;
 }
-hr {
+hr { /*light purple line seperating each section*/
   width: 600px;
   height: 4px;
   background-color: rgb(229, 205, 235);
@@ -74,23 +74,23 @@ ol {
   font-size: 24px;
 }
 
-a:link {color: rgb(61, 15, 148);}
-a:visited {color: blue;}
+a:link {color: rgb(61, 15, 148);} /*different colors for user interaction*/
+a:visited {color: rgb(186, 164, 192);}
 a:hover {color: rgb(209, 129, 247);}
-a:active {color: grey;}
+a:active {color: rgb(229, 205, 235;}
 
-footer {
+footer { /*dark purple footer with my name centered in light purple*/
   background-color: rgb(78, 11, 99);
   margin: 150px 0 0 0;
   padding: 20px 0; 
 }
 
 .center {
-  text-align: center;/*look here*/
+  text-align: center;
 }
-.lt-purple {
+.lt-purple { /*footer text color*/
   color: rgb(229, 205, 235);
 }
-.push-left {
+.push-left { /* indent on the left side*/
   padding-left: 100px;
 }
