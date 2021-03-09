@@ -77,7 +77,7 @@ ol {
 a:link {color: rgb(61, 15, 148);} /*different colors for user interaction*/
 a:visited {color: rgb(186, 164, 192);}
 a:hover {color: rgb(209, 129, 247);}
-a:active {color: rgb(229, 205, 235;}
+a:active {color: rgb(229, 205, 235);}
 
 footer { /*dark purple footer with my name centered in light purple*/
   background-color: rgb(78, 11, 99);
